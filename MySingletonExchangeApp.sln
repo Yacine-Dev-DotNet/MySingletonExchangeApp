@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySingletonExchangeApp", "MySingletonExchangeApp\MySingletonExchangeApp.csproj", "{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9C591277-9D7C-4E80-BD54-92765E2AC0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD7F9E88-92E4-4D50-A3BB-A9E6B7323020} = {9C591277-9D7C-4E80-BD54-92765E2AC0A3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCD7AE4-2A2B-4167-BADA-50AD35C88DB8}
+	EndGlobalSection
+EndGlobal
